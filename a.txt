@@ -1,13 +1,1 @@
 hello world
-dev
-master
-dev
-dev
-dev
-dev
-dev
-dev
-dev
-dev
-dev
-dev
